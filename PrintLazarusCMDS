@@ -216,6 +216,8 @@ then
     print("cmd105 = offatk unatk noatk")
     print("cmd106 = rainbowgm rgm")
     print("cmd107 = randomclothes")
-    print("cmd108 = offrandomclothes norandomclothes unrandomclothes")
+    print("cmd108 = randomaccessory")
+    print("cmd109 = randomall")
+    print("cmd110 = offrandomall norandomall unrandomall")
     print("============================")
 end
