@@ -214,8 +214,8 @@ then
     print("cmd103 = immortal antiall")
     print("cmd104 = mortal")
     print("cmd105 = offatk unatk noatk")
-    print("cmd106 = "rainbowgm rgm")
-    print("cmd107 = "randomclothes")
-    print("cmd108 = "offrandomclothes norandomclothes unrandomclothes")
+    print("cmd106 = rainbowgm rgm")
+    print("cmd107 = randomclothes")
+    print("cmd108 = offrandomclothes norandomclothes unrandomclothes")
     print("============================")
 end
