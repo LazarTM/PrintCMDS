@@ -219,5 +219,6 @@ then
     print("cmd108 = randomaccessory")
     print("cmd109 = randomall")
     print("cmd110 = offrandomall norandomall unrandomall")
+    print("cmd111 = grespawn gres")
     print("============================")
 end
